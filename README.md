@@ -5,4 +5,4 @@ It has been tested on many annoying websites and functionally removes any ads or
 
 It deletes the scroll bar which is then solved by implementing a new one. In addition, it removes the page dim that occurs when a pop-up prompt asks for your email.
 
-> "ALright partner, keep on rollin', baby" - Dante
+> "Alright partner, keep on rollin', baby" - Dante
